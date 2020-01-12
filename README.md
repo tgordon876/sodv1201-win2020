@@ -1,5 +1,26 @@
 # SODV1201 - Winter 2020
 
+This `repo` (short for Repository) is for all the course content I create; use it as a resource for your learning. I have found this is easier to keep organized and you may feel that way too. All code I deliver, create or share in class will originate from here.
+
+Additionally if you choose to learn more about Git and Github then you are also welcome to contribute to the code here via a Pull Request (PR). I've set up a directory with links to howto videos on Git and Github [here](/master-resources/github)
+
+## Prerequisite/Setup
+
+* Setup Github
+* Setup Git
+* VS Code (__Download and setup before class__)
+  * __Extensions (Recommend, not required)__
+  * Auto Rename
+  * Beautify
+  * Bracket Pair Colorizer
+  * Live Server
+  * Live Share
+  * Prettier Now
+  * TODO Highlight
+  * CodeSandbox
+
+---
+
 ## Schedule
 
 | Week | Date Range | Objective |
@@ -20,3 +41,9 @@
 | 14 | Apr 04-11 | TBD
 
 ## General Resources
+
+I'll keep adding resources here on a near daily basis.
+
+---
+
+__All my code is copyright &#169; 2020__
