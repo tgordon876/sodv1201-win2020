@@ -5,7 +5,7 @@
 | Week | Date Range | Objective |
 | ---------------- | ---------------- | ---------------- |
 | 1 | Jan 5-11 | Setup, Syllabus, Q&A, Introductions
-| 2 | Jan 12-18 | JavaScript Refresher
+| 2 | Jan 12-18 | [JavaScript Refresher](/Refresher)
 | 3 | Jan 19-25 | [Working Effectively with JavaScript Objects](/Objects)
 | 4 | Jan 26-01 | Review; in-class exercises all week
 | 5 | Feb 02-08 | [Working Effectively with JavaScript Arrays](/Arrays)
