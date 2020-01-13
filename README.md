@@ -8,6 +8,7 @@ Additionally if you choose to learn more about Git and Github then you are also 
 
 * [Signup Github](https://github.com/)
 * [Download and Install Github Desktop](https://desktop.github.com/)
+* [CodeSandbox](https://codesandbox.io/)
 * VS Code: [__Download and setup before class__](https://code.visualstudio.com/Download)
   * __Extensions (Recommend, not required)__
   * Auto Rename
@@ -28,7 +29,7 @@ Additionally if you choose to learn more about Git and Github then you are also 
 | 1 | Jan 5-11 | Setup, Syllabus, Q&A, Introductions
 | 2 | Jan 12-18 | [JavaScript Refresher](./Refresher)
 | 3 | Jan 19-25 | [Working Effectively with JavaScript Objects](./Objects)
-| 4 | Jan 26-01 | Review; in-class exercises all week
+| 4 | Jan 26-01 | Review; in-class exercises all week - [JavaScript30](https://javascript30.com/)
 | 5 | Feb 02-08 | [Working Effectively with JavaScript Arrays](./Arrays)
 | 6 | Feb 09-15 | [JavaScript Functions and Execution Context](./Functions)
 | 7 | Feb 18-22 | Reading Week (BREAK!)
