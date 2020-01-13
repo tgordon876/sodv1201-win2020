@@ -6,9 +6,9 @@ Additionally if you choose to learn more about Git and Github then you are also 
 
 ## Prerequisite/Setup
 
-* Setup Github
-* Setup Git
-* VS Code (__Download and setup before class__)
+* [Signup Github](https://github.com/)
+* [Download and Install Github Desktop](https://desktop.github.com/)
+* VS Code: [__Download and setup before class__](https://code.visualstudio.com/Download)
   * __Extensions (Recommend, not required)__
   * Auto Rename
   * Beautify
@@ -42,7 +42,7 @@ Additionally if you choose to learn more about Git and Github then you are also 
 
 ## General Resources
 
-I'll keep adding resources here on a near daily basis.
+I'll keep adding resources here on a near daily/weekly basis.
 
 ---
 
