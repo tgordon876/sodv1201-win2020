@@ -13,3 +13,6 @@ the requirements in the code linked to below
 
 ## Exercise
 - [Codesandbox - Link:](https://codesandbox.io/s/divine-waterfall-tod7s)
+
+## Homework - Instructions in the JS code as a comment
+- [Codesandbox - Link:](https://codesandbox.io/s/sodv1201-d1-win2020-wektk)
