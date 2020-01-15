@@ -17,7 +17,12 @@ the requirements in the code linked to below
 ## Homework - Instructions in the JS code as a comment
 - [Codesandbox - Link:](https://codesandbox.io/s/sodv1201-d1-win2020-wektk)
 
-index.html
+******
+
+## Inclass Exercise
+
+### index.html
+
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -41,6 +46,45 @@ index.html
 
 ```
 
+### index.js
+
 ```JavaScript
 None. You need to write that in your codesandbox
+```
+******
+
+## Homework!!
+
+### index.html
+
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>SODV1201 - Day 1</title>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <button id="count">Count</button>
+  </body>
+</html>
+```
+
+### index.js
+
+```JavaScript
+// Can you make this function perform a count
+// operation using a button and then display
+// the results to the webpage?
+
+const app = document.getElementById("app");
+app.textContent = "hello world";
+
+const btn = document.getElementById("count");
+
+btn.addEventListener("click", () => {});
+
 ```
