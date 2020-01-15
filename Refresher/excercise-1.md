@@ -3,6 +3,9 @@
 Using today's reminder material on JavaScript, create the code needed to carry out
 the requirements in the code linked to below
 
+## Video for Reference:
+- [YouTube Link: ](https://www.youtube.com/watch?v=wKBu_dEaF9E)
+
 ## Requirements:
 - Groups of 2
 - Finish and show your instructor before class is over
